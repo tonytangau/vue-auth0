@@ -1,5 +1,5 @@
-# rss-feeder
-
+# vue-auth0
+Vuejs integrated with Auth0, project bootstrapped by vue-cli.
 ## Project setup
 ```
 yarn install
